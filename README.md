@@ -1,10 +1,10 @@
-# demo
+# demo App 
 
-A new Flutter project.
+ Flutter project.
 
 ## Navigation info
 
-Bottom navigation bar middle-button => Scrren 2
-Floating action button => Screen 3
+# Bottom navigation bar middle button => Screen 2 <br />
+# Floating action button => Screen 3
 
 
